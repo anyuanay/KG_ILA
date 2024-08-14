@@ -6,4 +6,4 @@ This repository contains the source code notebooks for the paper:
 
 The data/ subfolder contains extracted features from the train and validation sets.
 
-
+Please see the paper for contact information. 
